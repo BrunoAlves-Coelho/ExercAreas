@@ -1,0 +1,13 @@
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.csprojAssemblyReference.cache
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.AssemblyInfoInputs.cache
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.AssemblyInfo.cs
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.exe
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.deps.json
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.runtimeconfig.json
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.runtimeconfig.dev.json
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.dll
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\bin\Debug\netcoreapp3.1\ExercAreas.pdb
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.dll
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.pdb
+C:\Users\BRUNO COELHO\source\repos\ExercAreas\ExercAreas\obj\Debug\netcoreapp3.1\ExercAreas.genruntimeconfig.cache
