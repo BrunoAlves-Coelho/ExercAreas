@@ -49,7 +49,7 @@ namespace ExercAreas
 
             foreach (Figura item in listaFigura)
             {
-                Console.WriteLine(item.Area().ToString());
+                Console.WriteLine(item.Area().ToString("F2", CultureInfo.InvariantCulture));
                
             }
            
